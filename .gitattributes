@@ -1,0 +1,2 @@
+*.bm filter=lfs diff=lfs merge=lfs -text
+*.bmi filter=lfs diff=lfs merge=lfs -text
